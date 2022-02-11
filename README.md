@@ -4,9 +4,7 @@ In Face recognition faces are detected in the image and then these detected face
 
 ![IMG-8787](https://user-images.githubusercontent.com/27896839/153675455-a772ebbe-5178-45e5-b5db-08590a1a1a51.jpg)
 
-Here is my friend Saad Ahmed Demonstration the Project in This Video
-![IMG-8787](https://user-images.githubusercontent.com/27896839/153675484-b968884d-adad-4538-8680-707e1311dd98.MOV)
+Here is my friend Saad Ahmed Demonstration the Project in This Video -
 
-
-![VIDEO](https://user-images.githubusercontent.com/27896839/153675484-b968884d-adad-4538-8680-707e1311dd98.MOV)
+https://user-images.githubusercontent.com/27896839/153675484-b968884d-adad-4538-8680-707e1311dd98.MOV
 
